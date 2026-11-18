@@ -4,3 +4,6 @@ node_modules/
 .env
 *.sqlite3
 *.partial
+build/
+dist/
+*.egg-info/
